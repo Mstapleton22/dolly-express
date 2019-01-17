@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mstapleton22/dolly-express/issues"
   },
-  "homepage": "https://github.com/Mstapleton22/dolly-express#readme"
+  "homepage": "https://github.com/Mstapleton22/dolly-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
