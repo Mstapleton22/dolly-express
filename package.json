@@ -1,0 +1,20 @@
+{
+  "name": "dolly-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mstapleton22/dolly-express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mstapleton22/dolly-express/issues"
+  },
+  "homepage": "https://github.com/Mstapleton22/dolly-express#readme"
+}
